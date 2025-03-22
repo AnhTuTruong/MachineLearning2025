@@ -64,17 +64,20 @@ Now if an email is detected as spam, then what is the probability that it is in 
 
 3. Early HIV Testing and Bayes’ Theorem
 ![alt text](image-16.png)
-![alt text](IMG_4032.jpeg)
+![alt text](IMG_4035.jpeg)
 ## Keep in mind!!!
 ![alt text](image-13.png)
 ![alt text](image-14.png)
-![alt text](IMG_4035.jpeg)
+
 
 # 5. Expectation and variance of a random variable
-**Expectation** is the *average* (*a fixed constant*) of the **Ω**.  
-**Average** is the mean of an **event**.  
+**Expectation** is the *average* (*a fixed constant* with any size) of the **Ω**.  
+**Average** is the mean of an **event** (*a random variable*).  
 ![alt text](image-19.png)
 μ(X) = ∑x.fX(x) (probability function; FX(x): Cumulative Function)
 
 ![alt text](image-17.png)
 ![alt text](image-18.png)
+
+E(X) = n*p
+![alt text](IMG_4042.jpeg)
