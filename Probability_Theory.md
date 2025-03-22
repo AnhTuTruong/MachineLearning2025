@@ -68,7 +68,7 @@ Now if an email is detected as spam, then what is the probability that it is in 
 ## Keep in mind!!!
 ![alt text](image-13.png)
 ![alt text](image-14.png)
-![alt text](image-15.png)
+![alt text](IMG_4035.jpeg)
 
 # 5. Expectation and variance of a random variable
 **Expectation** is the *average* (*a fixed constant*) of the **Ω**.  
