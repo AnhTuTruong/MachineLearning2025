@@ -27,6 +27,7 @@ Xác suất (probability) của sự kiện dùng phép cộng (cho OR) hoặc n
 
 ![alt text](image-5.png)
 X ~ *Bin*(n, p)
+![alt text](image-20.png)
 
 # 2. Conditional probability
 ![alt text](image-6.png)
@@ -69,4 +70,11 @@ Now if an email is detected as spam, then what is the probability that it is in 
 ![alt text](image-14.png)
 ![alt text](image-15.png)
 
+# 5. Expectation and variance of a random variable
+**Expectation** is the *average* (*a fixed constant*) of the **Ω**.  
+**Average** is the mean of an **event**.  
+![alt text](image-19.png)
+μ(X) = ∑x.fX(x) (probability function; FX(x): Cumulative Function)
 
+![alt text](image-17.png)
+![alt text](image-18.png)
