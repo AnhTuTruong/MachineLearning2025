@@ -38,7 +38,7 @@ Công thức Xác xuất có điều kiện: Xác suất của A trên điều k
 
 Đổi không gian mẫu: P(A∩B)/P(B)=P(B∩A)/P(A)
 ![alt text](image-10.png)
-Dấu "," trong P(X=x, Y=y) nghĩa là "AND" hay "∩"
+Dấu "**,**" trong P(X=x, Y=y) nghĩa là "AND" hay "**∩**"
 # 3. Bayes’ Theorem
 ![alt text](image-8.png)
 ![alt text](image-9.png)
@@ -71,7 +71,7 @@ Now if an email is detected as spam, then what is the probability that it is in 
 
 
 # 5. Expectation and variance of a random variable
-**Expectation** is the *average* (*a fixed constant* with any size) of the **Ω**.  
+## **Expectation** is the *average* (*a fixed constant* with any size) of the **Ω**.  
 **Average** is the mean of an **event** (*a random variable*).  
 ![alt text](image-19.png)
 μ(X) = ∑x.fX(x) (probability function; FX(x): Cumulative Function)
@@ -79,5 +79,55 @@ Now if an email is detected as spam, then what is the probability that it is in 
 ![alt text](image-17.png)
 ![alt text](image-18.png)
 
-E(X) = n*p
+Proof: E(X) = n*p
 ![alt text](IMG_4042.jpeg)
+
+Properties of expectation
+1. Expectation is a linear operator:
+![alt text](image-21.png)
+![alt text](image-28.png)
+
+2. The expectation of a sum is the sum of the expectations:
+![alt text](image-22.png)
+
+![alt text](image-23.png)
+
+3. Expectation of a product of random variables: E(XY)
+![alt text](image-24.png)
+![alt text](image-29.png)
+
+4. Variable transformations:
+![alt text](image-25.png)
+
+5. Expected value of a transformed random variable:
+![alt text](image-26.png)
+
+Common mistakes in calculate expected value of a transformed random variable:
+![alt text](image-27.png)  
+
+## Variance
+![alt text](image-30.png)
+![alt text](image-31.png)
+
+![alt text](image-32.png)
+
+![alt text](image-33.png)
+
+Properties of Variance
+1. If *a* and *b* are constants and *g*(x) is a function, then:  
+Part (i)
+![alt text](image-34.png)
+Part (ii)
+![alt text](IMG_4043.jpeg)
+
+2. Variance of a sum of random variables: Var(X + Y):
+![alt text](image-35.png)
+
+### Class task for Expectation and Variance:
+![alt text](image-36.png)
+![alt text](IMG_4044.jpeg)
+
+# 6. Covariance
+
+# 7. Correlation
+
