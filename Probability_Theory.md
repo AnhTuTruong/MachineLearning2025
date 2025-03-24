@@ -128,6 +128,50 @@ Part (ii)
 ![alt text](IMG_4044.jpeg)
 
 # 6. Covariance
+![alt text](image-37.png)
 
+![alt text](image-38.png)
+
+Example:
+![alt text](image-39.png)
+![alt text](IMG_4045.jpeg)
+
+![alt text](image-40.png)
+![alt text](IMG_4046.jpeg)
+
+Theorem 2.19:
+![alt text](image-41.png)
+
+Theorem 2.20:
+![alt text](image-42.png)
+
+Theorem 2.22:
+![alt text](image-43.png)
+
+### Class task
+![alt text](image-44.png)
+![alt text](IMG_4053.jpeg)
+Proof
+![alt text](IMG_4054.jpeg)
 # 7. Correlation
+![alt text](image-46.png)
+Theorem 2.23:
+![alt text](image-50.png)
 
+![alt text](image-49.png)
+![alt text](image-48.png)
+![alt text](image-47.png)
+
+# 8. Probability as an Expectation:
+![alt text](image-51.png)
+**E(*I*A) = P(A)**
+## Conditional probability:
+![alt text](image-52.png)
+
+# 9. Conditional Expectation:
+![alt text](image-53.png)
+
+
+
+
+# 10. Conditional Variance:
