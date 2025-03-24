@@ -168,10 +168,31 @@ Theorem 2.23:
 ## Conditional probability:
 ![alt text](image-52.png)
 
-# 9. Conditional Expectation:
+# 9. Conditional Expectation and Conditional Variance:
+### Conditional Expectation:
 ![alt text](image-53.png)
 
+e.g. Expected value of the number on the die given that the number is **even**.
 
+![alt text](image-54.png)
+![alt text](image-55.png)
+Conditional expectation is a very useful tool for finding the **unconditional expectation** of X.  
+### Conditional Variance:
+![alt text](image-56.png)
+### Laws of Total Expectation and Variance:
+![alt text](image-57.png)
 
+Proof:
+(ii)
+![alt text](IMG_4055.jpeg)
+(iii)
+![alt text](IMG_4056.jpeg)
 
-# 10. Conditional Variance:
+#### Some important discrete distributions:
+![alt text](image-58.png)
+
+### Example:
+![alt text](image-59.png)
+
+![alt text](IMG_4057.jpeg)
+![alt text](IMG_4058.jpeg)
