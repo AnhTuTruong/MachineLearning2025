@@ -196,3 +196,46 @@ Proof:
 
 ![alt text](IMG_4057.jpeg)
 ![alt text](IMG_4058.jpeg)
+
+
+# 10. Hypothesis testing:
+![alt text](image-61.png)
+Hypothesis testing is calculating the p-value from the observed data to the extreme.
+![alt text](image-60.png)
+
+p-value
+![alt text](image-62.png)
+
+![alt text](image-63.png)
+
+![alt text](image-64.png)
+![alt text](image-65.png)
+
+![alt text](image-66.png)
+![alt text](image-67.png)
+![alt text](image-68.png)
+![alt text](image-69.png)
+
+![alt text](image-70.png)
+
+# 11. Likelihood and estimation:
+### Estimation
+![alt text](image-72.png)
+"**^**" = **estimated**
+### Likelihood
+![alt text](image-73.png)
+![alt text](image-75.png)
+
+![alt text](image-77.png)
+![alt text](image-76.png)
+![alt text](image-78.png)
+
+Difference between the **Likelihood function** and the
+**Probability function**
+![alt text](image-79.png)
+
+### Maximizing the likelihood
+![alt text](image-80.png)
+
+![alt text](image-82.png)
+![alt text](image-83.png)
