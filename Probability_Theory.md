@@ -79,7 +79,7 @@ Now if an email is detected as spam, then what is the probability that it is in 
 ![alt text](image-17.png)
 ![alt text](image-18.png)
 
-Proof: E(X) = n*p
+#### Proof: E(X) = n*p
 ![alt text](IMG_4042.jpeg)
 
 Properties of expectation
