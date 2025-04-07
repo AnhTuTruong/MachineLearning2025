@@ -244,3 +244,18 @@ Difference between the **Likelihood function** and the
 
 ![alt text](images/image-84.png)
 ![alt text](images/IMG_4091.jpeg)
+
+#### Exercise 1
+![alt text](images/image-86.png)
+![alt text](images/IMG_4092.jpeg)
+
+#### Exercise 2
+![alt text](images/image-87.png)
+![alt text](images/IMG_4093.jpeg)
+
+# 12. Maximum Log-likelihood Estimation:
+![alt text](images/image-89.png)
+
+#### Example 7:
+![alt text](images/image-88.png)
+![alt text](images/IMG_4095.jpeg)
