@@ -188,6 +188,8 @@ Proof:
 (iii)
 ![alt text](images/IMG_4056.jpeg)
 
+![alt text](images/image-85.png)
+
 #### Some important discrete distributions:
 ![alt text](images/image-58.png)
 
@@ -239,3 +241,6 @@ Difference between the **Likelihood function** and the
 
 ![alt text](images/image-82.png)
 ![alt text](images/image-83.png)
+
+![alt text](images/image-84.png)
+![alt text](images/IMG_4091.jpeg)
