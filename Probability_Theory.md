@@ -259,3 +259,52 @@ Difference between the **Likelihood function** and the
 #### Example 7:
 ![alt text](images/image-88.png)
 ![alt text](images/IMG_4095.jpeg)
+
+# 13. MLE for n observation:
+#### Example 1:
+![alt text](images/image-90.png)
+**Step 2:**
+![alt text](images/IMG_4097.jpeg)
+
+#### Example 3:
+![alt text](images/image-91.png)
+![alt text](images/IMG_4098.jpeg)
+
+# 14. MLE for 2 parameters:
+#### Example 4:
+![alt text](images/image-92.png)
+![alt text](images/image-93.png)
+
+# 15. Bayesian Estimation:
+![alt text](images/image-94.png)
+![alt text](/images/IMG_4100.jpeg)
+
+![alt text](image.png)
+![alt text](image-1.png)
+
+## Prior and Posterior, example:
+
+A logistics company is evaluating the performance of their two delivery staff members, **Employee A** and **Employee B**. One of them was responsible for a recent package that arrived **2 days late**, but the company does not know **which employee made the delivery**.
+
+From past data:
+
+- Employee A tends to delay a delivery with probability **0.2**.
+- Employee B tends to delay a delivery with probability **0.5**.
+
+Let `X` denote the unknown probability of a delivery delay. Since the company doesn’t know who made the delivery, they assign equal prior belief to both employees:  
+- P(X = 0.2) = 0.5 (Employee A)  
+- P(X = 0.5) = 0.5 (Employee B)
+
+Let `Y` be the number of days a package is delayed. Assume that given `X`, the delay `Y` follows a **Geometric distribution**:  
+
+Y | X = x ∼ Geometric(x), where the Geometric distribution gives the probability that the first success (i.e., a delayed day) occurs on the y-th trial.
+
+The probability that a package is delayed for `y` days given X = x is:  
+$$
+P(Y = y \mid X = x) = x \cdot (1 - x)^{y - 1}, \quad \text{for } y = 1, 2, 3, \ldots
+$$
+
+Now, suppose we observe that the package was delayed for **2 days**.
+
+**Question**:
+Find the **posterior distribution** of `X` given this observation, i.e., compute: P(X = x | Y = 2)?
