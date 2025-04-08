@@ -279,8 +279,8 @@ Difference between the **Likelihood function** and the
 ![alt text](images/image-94.png)
 ![alt text](/images/IMG_4100.jpeg)
 
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](images/image-95.png)
+![alt text](images/image-96.png)
 
 ## Prior and Posterior, example:
 
@@ -297,7 +297,7 @@ Let `X` denote the unknown probability of a delivery delay. Since the company do
 
 Let `Y` be the number of days a package is delayed. Assume that given `X`, the delay `Y` follows a **Geometric distribution**:  
 
-Y | X = x ∼ Geometric(x), where the Geometric distribution gives the probability that the first success (i.e., a delayed day) occurs on the y-th trial.
+Y | X = x ∼ *Geometric*(x), where the Geometric distribution gives the probability that the first success (i.e., a delayed day) occurs on the y-th trial.
 
 The probability that a package is delayed for `y` days given X = x is:  
 $P(Y = y \mid X = x) = x \cdot (1 - x)^{y - 1}, \quad \text{for } y = 1, 2, 3, \ldots$
@@ -306,3 +306,20 @@ Now, suppose we observe that the package was delayed for **2 days**.
 
 **Question**:
 Find the **posterior distribution** of `X` given this observation, i.e., compute: P(X = x | Y = 2)?
+
+**Answer**:
+![alt text](images/IMG_4101.jpeg)
+
+# 16. MAP Estimation: simlification
+![alt text](images/image-97.png)
+
+### MAP vs ML Estimation:
+![alt text](images/image-98.png)
+
+![alt text](images/image-99.png)
+![alt text](images/image-100.png)
+![alt text](images/image-101.png)
+![alt text](images/image-102.png)
+
+#### Exercise:
+![alt text](images/image-103.png)
