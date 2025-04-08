@@ -300,9 +300,7 @@ Let `Y` be the number of days a package is delayed. Assume that given `X`, the d
 Y | X = x ∼ Geometric(x), where the Geometric distribution gives the probability that the first success (i.e., a delayed day) occurs on the y-th trial.
 
 The probability that a package is delayed for `y` days given X = x is:  
-$$
-P(Y = y \mid X = x) = x \cdot (1 - x)^{y - 1}, \quad \text{for } y = 1, 2, 3, \ldots
-$$
+$P(Y = y \mid X = x) = x \cdot (1 - x)^{y - 1}, \quad \text{for } y = 1, 2, 3, \ldots$
 
 Now, suppose we observe that the package was delayed for **2 days**.
 
