@@ -1,60 +1,60 @@
 # 1. Joint Distributions: Two Discrete Random Variables
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](images/image-104.png)
+![alt text](images/image-105.png)
 ## Joint probability mass function (PMF)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](images/image-106.png)
+![alt text](images/image-107.png)
 ## Marginal Probability Mass function of X
-![alt text](image-4.png)
+![alt text](images/image-108.png)
 ## Independent, Dependent and Expectation
-![alt text](image-5.png)
+![alt text](images/image-109.png)
 ## Conditioning and Independence
-![alt text](image-6.png)
-![alt text](image-7.png)
+![alt text](images/image-110.png)
+![alt text](images/image-111.png)
 ## Conditional Expectation
-![alt text](image-8.png)
+![alt text](images/image-112.png)
 ## Law of Total Probability and Expectation
-![alt text](image-9.png)
-![alt text](image-10.png)
-![alt text](image-11.png)
+![alt text](images/image-113.png)
+![alt text](images/image-114.png)
+![alt text](images/image-115.png)
 ## Variance of Joint Probability
-![alt text](image-12.png)
+![alt text](images/image-116.png)
 ## Example of joint probability of 2 variables
-![alt text](image-13.png)
-![alt text](image-14.png)
+![alt text](images/image-117.png)
+![alt text](images/image-118.png)
 ## Joint Cumulative Distributive Function (CDF)
-![alt text](image-15.png)
+![alt text](images/image-119.png)
 ## Conditional Expectation as a Function of a Random Variable
-![alt text](image-16.png)
-![alt text](image-17.png)
-![alt text](image-18.png)
-![alt text](image-19.png)
-![alt text](image-20.png)
+![alt text](images/image-120.png)
+![alt text](images/image-121.png)
+![alt text](images/image-122.png)
+![alt text](images/image-123.png)
+![alt text](images/image-124.png)
 ## Iterated Expectations
-![alt text](image-21.png)
+![alt text](images/image-125.png)
 ## Conditional Variance
-![alt text](image-22.png)
+![alt text](images/image-126.png)
 ## Law of Total Variance
-![alt text](image-23.png)
+![alt text](images/image-127.png)
 ## How to make decision in the prsence of uncertainty?
-![alt text](image-24.png)
-![alt text](image-25.png)
+![alt text](images/image-128.png)
+![alt text](images/image-129.png)
 ## Elements of Decision Theory
-![alt text](image-26.png)
-![alt text](image-27.png)
+![alt text](images/image-130.png)
+![alt text](images/image-131.png)
 ## The effect of Prior on Posterior
-![alt text](image-28.png)
+![alt text](images/image-132.png)
 ## How to decide male of female?
-![alt text](image-29.png)
-![alt text](image-30.png)
+![alt text](images/image-133.png)
+![alt text](images/image-134.png)
 ## Summary: How to decide male of female?
-![alt text](image-31.png)
-![alt text](image-32.png)
-![alt text](image-33.png)
+![alt text](images/image-135.png)
+![alt text](images/image-136.png)
+![alt text](images/image-137.png)
 ## Bayesian Decision Theory with rules, example
-![alt text](image-34.png)
-![alt text](image-35.png)
-![alt text](image-36.png)
-![alt text](image-37.png)
-![alt text](image-38.png)
-
+![alt text](images/image-138.png)
+![alt text](images/image-139.png)
+![alt text](images/image-140.png)
+![alt text](images/image-141.png)
+![alt text](images/image-142.png)
+![alt text](images/image-143.png)
