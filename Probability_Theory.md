@@ -321,5 +321,3 @@ Find the **posterior distribution** of `X` given this observation, i.e., compute
 ![alt text](images/image-101.png)
 ![alt text](images/image-102.png)
 
-#### Exercise:
-![alt text](images/image-103.png)
