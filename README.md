@@ -12,9 +12,7 @@ I am learning under the guidance of **Dr. Loi** (*luu.p.loi@googlemail.com*), wh
 ### 1️⃣ **Mathematical Foundations**  
 - [Probability Theory](./Probability_Theory.md)  
 - [Bayesian Decision Theory](./Bayesian_Decision_Theory.md)
-- Statistics (Coming soon...)  
-- Linear Algebra (Coming soon...)  
-- Calculus (Coming soon...)  
+- ...
 
 ### 2️⃣ **Basic Machine Learning**  
 - Introduction to Machine Learning (Coming soon...)  
