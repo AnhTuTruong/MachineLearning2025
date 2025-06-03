@@ -20,6 +20,24 @@ Q2: how many lines does the poem have?
 Q3: replace all space characters with '_'
 Q4: capitalize all characters of the poem
 '''
+######################################################
+#Tu's answer:
+print(poem)
+#Q1
+print("The number of letter 's' in the given poem is:",poem.count('s'))
+#Q2
+print("The number of line in the given poem is:",poem.count('\n'))
+#Q3
+a = " "
+b = "-"
+
+new = poem.replace(a, b)
+print(new)
+#Q4
+c = poem.upper()
+print(c)
+
+
 
 ###################################################
 
@@ -43,3 +61,8 @@ Q2: Write a regular expression pattern to extract full date and time
 Q3: Write a regular expression pattern to extract URLs
 => Expected output: ['/index.html', '/login.php', '/dashboard', '/account/12345']
 '''
+######################################################
+#Tu's answer:
+
+
+
