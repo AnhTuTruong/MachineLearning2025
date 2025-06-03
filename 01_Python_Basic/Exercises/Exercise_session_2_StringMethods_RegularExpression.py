@@ -64,5 +64,21 @@ Q3: Write a regular expression pattern to extract URLs
 ######################################################
 #Tu's answer:
 
+#Q1
+import re
+print(log_server)
+x = re.findall(r'(.+) - -', log_server)
+
+print(x)
+
+#Q2
+y = re.findall(r'\d{2}/[A-Za-z]{3}/\d{4}:\d{2}:\d{2}:\d{2}', log_server)
+
+print(y)
 
 
+#Q3
+z = re.findall(r'"[A-Z]+ (/[^ ]+)', log_server)
+print(z)
+
+# I found this web for practice: https://regex101.com
